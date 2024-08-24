@@ -1,0 +1,1 @@
+Bank,Ref,Batch,Part,Worker,Type,Counterpart1,Counterpart2,Object,Wire1,Wire2,Way,DateBegin,DateEnd,TimeU,CPV1,CPV2,CPV3,CPV4
